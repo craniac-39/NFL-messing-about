@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602792443344.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3570583756",
+    "id" : "AE9A081",
+    "lastKnownWriteTime" : 1602792523,
+    "last_content_update" : 1602792523815,
+    "path" : "C:/Users/benwa/Desktop/NFL messing about/NFL SCRAPR Play by play.R",
+    "project_path" : "NFL SCRAPR Play by play.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
